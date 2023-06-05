@@ -2,3 +2,8 @@
     padding: 0px;
     margin: 0px;
 }
+
+body {
+    font-family: 'Merriweather', serif; /*Main font Merrieather , fallback Serif */
+    background-color: #1e3d7b;
+}
